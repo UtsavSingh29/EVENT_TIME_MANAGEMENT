@@ -20,3 +20,6 @@ git clone https://github.com/UtsavSingh29/EVENT_TIME_MANAGEMENT.git
 cd EVENT_TIME_MANAGEMENT
 ```
 Run the Project
+```
+index.html
+```
